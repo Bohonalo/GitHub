@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fragment_circle"
+    android:orientation="vertical"
+    android:padding="@dimen/d45">
+
+    <EditText
+        android:id="@+id/nameProyect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/name_project"
+        android:textColorHint="@color/blue" />
+
+    <Button
+        android:id="@+id/search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/d25"
+        android:background="@drawable/btn_cirlce"
+        android:text="@string/searh" />
+
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/d25"
+        android:background="@drawable/btn_cirlce"
+        android:text="@string/cancel" />
+
+</LinearLayout>

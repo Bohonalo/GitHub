@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHub</string>
+    <string name="name_project">Nombre de proyecto</string>
+    <string name="searh">Buscar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="messaje_error_none_caractere">Debes introducir un nombre de proyecto</string>
+    <string name="name">Nombre</string>
+    <string name="project">Nombre Proyecto</string>
+    <string name="description">Descripción del proyecto</string>
+    <string name="url">Dirección del proyecto</string>
+    <string name="followers">FOLLOWERS</string>
+</resources>
